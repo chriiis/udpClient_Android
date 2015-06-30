@@ -1,0 +1,3 @@
+set solib-search-path /Users/mac/Documents/workspace/UdpClient/obj/local/armeabi-v7a
+source /Users/mac/project/android-ndk-r10d/prebuilt/common/gdb/common.setup
+directory /Users/mac/project/android-ndk-r10d/platforms/android-16/arch-arm/usr/include /Users/mac/project/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.8/include /Users/mac/project/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.8/libs/armeabi-v7a/include /Users/mac/project/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.8/include/backward /Users/mac/Documents/workspace/UdpClient/jni
